@@ -1,2 +1,4 @@
 sum
 factorial
+gcd
+inheritance
